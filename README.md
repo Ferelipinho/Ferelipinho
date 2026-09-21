@@ -5,4 +5,4 @@ Sou o Elias, Desenvolvedor, Aluno em tempo integral e Crente na Congregação Cr
 Linguagens:
 -PHP
 -MySQL
--Paz
+-Paz amor
